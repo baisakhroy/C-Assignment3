@@ -1,0 +1,15 @@
+C:\C#\C#Assignment3\Assignmetn3-tc\obj\Debug\netcoreapp2.0\Assignmetn3-tc.csproj.CoreCompileInputs.cache
+C:\C#\C#Assignment3\Assignmetn3-tc\obj\Debug\netcoreapp2.0\Assignmetn3-tc.AssemblyInfoInputs.cache
+C:\C#\C#Assignment3\Assignmetn3-tc\obj\Debug\netcoreapp2.0\Assignmetn3-tc.AssemblyInfo.cs
+C:\C#\C#Assignment3\Assignmetn3-tc\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\C#\C#Assignment3\Assignmetn3-tc\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\C#\C#Assignment3\Assignmetn3-tc\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\C#\C#Assignment3\Assignmetn3-tc\bin\Debug\netcoreapp2.0\Assignmetn3-tc.deps.json
+C:\C#\C#Assignment3\Assignmetn3-tc\bin\Debug\netcoreapp2.0\Assignmetn3-tc.runtimeconfig.json
+C:\C#\C#Assignment3\Assignmetn3-tc\bin\Debug\netcoreapp2.0\Assignmetn3-tc.runtimeconfig.dev.json
+C:\C#\C#Assignment3\Assignmetn3-tc\bin\Debug\netcoreapp2.0\Assignmetn3-tc.dll
+C:\C#\C#Assignment3\Assignmetn3-tc\bin\Debug\netcoreapp2.0\Assignmetn3-tc.pdb
+C:\C#\C#Assignment3\Assignmetn3-tc\bin\Debug\netcoreapp2.0\C#Assignment3.dll
+C:\C#\C#Assignment3\Assignmetn3-tc\bin\Debug\netcoreapp2.0\C#Assignment3.pdb
+C:\C#\C#Assignment3\Assignmetn3-tc\obj\Debug\netcoreapp2.0\Assignmetn3-tc.dll
+C:\C#\C#Assignment3\Assignmetn3-tc\obj\Debug\netcoreapp2.0\Assignmetn3-tc.pdb
